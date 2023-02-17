@@ -1,0 +1,12 @@
+good_logP high_QED good_SA dummy_1 [*]C dummy_1 [*]c1ccc2c(c1)CCC2
+good_logP high_QED good_SA dummy_1 [*]O dummy_1 [*]c1c2ccoc2cc2oc(=O)ccc12
+good_logP high_QED bad_SA dummy_1 [*]OC dummy_4 [*]c1cc2c(cc1[*])CN([*])[C@@H]([*])C2 dummy_1 [*]OC dummy_1 [*]O dummy_2 [*]C[*] dummy_4 [*][C@H]1C(=O)O[C@@H]2CC3=CCC[C@H]([*])[C@@]3([*])[C@H]([*])[C@H]21 dummy_1 [*]C dummy_1 [*]C dummy_1 [*]C
+good_logP high_QED bad_SA dummy_3 [*]C1CC2CC3c4[nH]c5cc([*])c([*])cc5c4CCN(C2)C13 dummy_1 [*]CC dummy_1 [*]OC dummy_1 [*]OC
+good_logP high_QED good_SA dummy_1 [*]C(=C)C dummy_2 [*][C@H]1CC2=C(O1)C(=O)c1cc([*])ccc1C2=O dummy_1 [*]O
+good_logP high_QED good_SA dummy_1 [*]CC dummy_2 [*]N1CCc2c([nH]c3ccccc23)C1[*] dummy_1 [*]C
+good_logP high_QED good_SA dummy_1 [*]C(C)C dummy_3 [*]C1=CC2C(CCC2([*])[*])C(=C)CC1 dummy_1 [*]C dummy_1 [*]O
+good_logP high_QED good_SA dummy_1 [*]C dummy_4 [*]C1CC(=O)C2([*])C([*])C3=CC(=O)OC3=CC12[*] dummy_1 [*]C dummy_1 [*]C dummy_1 [*]C
+good_logP high_QED good_SA dummy_1 [*]C(C)=O dummy_4 [*]C1([*])COC(=O)CC23CC(=O)OC12CC([*])C3[*] dummy_1 [*]C dummy_1 [*]C dummy_1 [*]O
+good_logP high_QED good_SA dummy_1 [*]C dummy_5 [*]C1([*])CCC[C@@]2([*])CC[C@@H]3[C@H]([C@@H]12)C3([*])[*] dummy_1 [*]C dummy_1 [*]O dummy_1 [*]C dummy_1 [*]C
+good_logP high_QED good_SA dummy_1 [*]C dummy_2 [*][C@@H]1C[C@]2(CC[C@@H]([*])CC2)NCc2ccccc21 dummy_1 [*]C
+good_logP high_QED good_SA dummy_1 [*]OC dummy_5 [*]c1cc2c(c([*])c1[*])C([*])N([*])CC2 dummy_1 [*]OC dummy_1 [*]OC dummy_1 [*]C dummy_1 [*]C

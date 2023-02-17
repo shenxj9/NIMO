@@ -1,0 +1,10 @@
+{
+    "min_length": 2,
+    "max_length": 25,
+    "properties": [
+        "Qed",
+        "logP",
+        "SAS"
+    ]
+
+}

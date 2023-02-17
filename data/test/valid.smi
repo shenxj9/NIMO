@@ -1,0 +1,2 @@
+good_logP high_QED bad_SA dummy_1 [*]OC dummy_4 [*]c1cc2c(cc1[*])CN([*])[C@@H]([*])C2 dummy_1 [*]OC dummy_1 [*]O dummy_2 [*]C[*] dummy_4 [*][C@H]1C(=O)O[C@@H]2CC3=CCC[C@H]([*])[C@@]3([*])[C@H]([*])[C@H]21 dummy_1 [*]C dummy_1 [*]C dummy_1 [*]C
+good_logP high_QED good_SA dummy_1 [*]C dummy_5 [*]C1([*])CCC[C@@]2([*])CC[C@@H]3[C@H]([C@@H]12)C3([*])[*] dummy_1 [*]C dummy_1 [*]O dummy_1 [*]C dummy_1 [*]C
